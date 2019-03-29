@@ -4,7 +4,7 @@ For example: if the input string is "Hello World and Coders" then your program s
  */
 
  function FirstReverse(str) {
-    return str.split("").reverse().join("");
+    return str.split('').reverse().join('');
  }
 
- console.log(FirstReverse("Hello World and Coders"));
+ console.log(FirstReverse('Hello World and Coders'));
